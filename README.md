@@ -46,7 +46,7 @@ Acceptance Testing determines if the software satisfies users' needs and is suit
 #Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-Prompt engineering is simply the technique of creating accurate and effective inputs in the form of text or voice prompts to aid AI models in producing the desired results. It is critical for improving model performance and ensuring relevant, accurate, and high-quality replies. A well-crafted prompt can maximize the benefits of an AI model's capabilities
+Prompt engineering is simply the technique of creating accurate and effective inputs in the form of text or voice prompts to aid AI models in producing the desired results. It is critical for improving model performance and ensuring relevant, accurate, and high-quality replies. A well-crafted prompt can maximize the benefits of an AI model's capabilities to the fullest
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 A common example of an vague prompt is asking an AI "Tell me about technology" when you want specific knowledge about blockchain technology.  
