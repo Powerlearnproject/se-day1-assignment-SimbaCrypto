@@ -39,10 +39,11 @@ Popular VCS, such as Git, Subversion (SVN), and Mercurial, manage and track code
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
-Challenges faced by software engineers includes Shifting Demands, Strict Deadline Schedules and Technical Debt amongst others 
+ANSWER: Challenges faced by software engineers includes Shifting Demands, Strict Deadline Schedules and Technical Debt amongst others 
 However, to address these common challenges the implementation of agile methodologies, task prioritization, fostering timely and effective communication strategy, and regular reevaluation of project goals and timelines are all critical approaches that contribute to increased project efficiency and adaptability, which in turn allows for improved and manage challenges within the software engineering corridor
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
 ANSWER: Unit Testing: focuses on individual components or functions, verifying they perform as intended separately. Such testing helps uncover and repair errors at the initial stage, making it easier to troubleshoot individual areas of the code 
 Integration testing: analyzes how various software components interact with one another. It seeks to identify difficulties that develop when components are mixed 
 System testing: entails evaluating the entire application to ensure it satisfies all criteria and performs properly as a unit. This involves ensuring that all features operate together smoothly 
@@ -52,7 +53,7 @@ Acceptance Testing: determines if the software satisfies users' needs and is sui
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
-ANASWER: Prompt engineering is simply the technique of creating accurate and effective inputs in the form of text or voice prompts to aid AI models in producing the desired results. It is critical for improving model performance and ensuring relevant, accurate, and high-quality replies. A well-crafted prompt can maximize the benefits of an AI model's capabilities to the fullest
+ANSWER: Prompt engineering is simply the technique of creating accurate and effective inputs in the form of text or voice prompts to aid AI models in producing the desired results. It is critical for improving model performance and ensuring relevant, accurate, and high-quality replies. A well-crafted prompt can maximize the benefits of an AI model's capabilities to the fullest
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
